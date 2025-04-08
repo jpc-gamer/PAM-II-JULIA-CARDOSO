@@ -1,5 +1,3 @@
-
-
 import { Text, View, StyleSheet } from 'react-native';
  import { Link } from 'expo-router'; 
 
@@ -30,5 +28,3 @@ const styles = StyleSheet.create({
     color: '#fff',
   },
 });
-
-
