@@ -1,7 +1,7 @@
 # PAM-II-JULIA-CARDOSO
 Aulas de Programação Mobile II com os professores João Siles e Najara Gabriela
 
-## Como configurar o Github 
+## :globe_with_meridians: Como configurar o Github 
 
 #### No terminal ou no Git Bash: 
 
