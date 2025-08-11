@@ -21,7 +21,7 @@ Aulas de Programação Mobile II com os professores João Siles e Najara Gabriel
 #### Pré-Requisitos
 
 - Node.js (versão LTS) instalado
- > https://nodejs.org/pt/download
+     > https://nodejs.org/pt/download
 
 - Vs Code ou qualquer outro editor de código ou IDE preferido instalado 
 
