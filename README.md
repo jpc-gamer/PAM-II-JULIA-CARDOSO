@@ -13,7 +13,7 @@ Aulas de Programação Mobile II com os professores João Siles e Najara Gabriel
 
     git add .
     git status 
-    git commit -m "mensagem do comit"
+    git commit -m "mensagem do commit"
     git push 
 
 ## :page_with_curl: Como criar um projeto Expo 
