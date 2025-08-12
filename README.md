@@ -30,4 +30,4 @@ Aulas de Programação Mobile II com os professores João Siles e Najara Gabriel
     npx create-expo-app@latest
     npx expo start 
     
-> https://docs.expo.dev/ 
+    > https://docs.expo.dev/ 
